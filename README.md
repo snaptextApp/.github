@@ -38,14 +38,6 @@
 
 ---
 
-## 🖼️ 스크린샷
-
-| 메인 화면 | OCR 영역 선택 | 결과 미리보기 |
-|-----------|--------------|----------------|
-| ![Main Screen](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/34/ba/4834ba61-9093-1d8c-3f1a-b2c03dbb2b09/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/626x0w.webp) | ![Capture](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/34/ba/4834ba61-9093-1d8c-3f1a-b2c03dbb2b09/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/626x0w.webp) | ![Result](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/34/ba/4834ba61-9093-1d8c-3f1a-b2c03dbb2b09/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/626x0w.webp) |
-
----
-
 ## 🛠️ 설치 방법
 
 1. 아래 버튼을 클릭하여 **Mac App Store**에서 다운로드  
@@ -76,7 +68,7 @@
 ## 📮 문의 & 피드백
 
 - **개발자**: 주승현 (Juseung Hyun)
-- **이메일**: [문의하기](mailto:your-email@example.com)
+- **이메일**: [문의하기](tmdgus4475@gmail.com)
 - **앱스토어**: [SnapText OCR](https://apps.apple.com/kr/app/snaptext-ocr/id6751143056?mt=12)
 
 ---
