@@ -1,10 +1,6 @@
 # SnapText OCR
 
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/34/ba/4834ba61-9093-1d8c-3f1a-b2c03dbb2b09/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630bb.png" width="180" alt="SnapText OCR Logo" />
-</p>
-
-<p align="center">
   <strong>화면 어디서나 텍스트를 즉시 복사하세요</strong><br>
   한/영 동시 인식 · 줄바꿈 자동 정리 · 100% 로컬 처리  
 </p>
